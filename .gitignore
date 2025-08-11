@@ -9,6 +9,7 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+!.yarn/sdks
 
 # testing
 /coverage
@@ -22,6 +23,9 @@
 
 # misc
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
 *.pem
 
 # debug
